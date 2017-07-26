@@ -10,4 +10,8 @@
     - [Quick Guide to GDB](http://beej.us/guide/bggdb/)
     - [Writeup](http://csapp.cs.cmu.edu/3e/bomblab.pdf)
     - [Handout.tar](http://csapp.cs.cmu.edu/3e/bomb.tar)
+  
+  ***
   - 博客链接：
+  
+  https://tangxiangru.github.io/2017/04/23/cmu-bomb-lab-1/
